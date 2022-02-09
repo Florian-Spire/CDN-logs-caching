@@ -1,4 +1,4 @@
-import csv, json, pandas
+import pandas
 from elasticsearch import Elasticsearch
 
 
